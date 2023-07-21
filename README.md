@@ -1,3 +1,4 @@
 # JAVA
-This repo is public
-In this repo I put the java codes and diffrent approaches practiced by me
+# This repo contains Java codes
+# We know Java is completely object oriented
+# It's easy to learn Java
